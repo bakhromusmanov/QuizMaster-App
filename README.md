@@ -27,6 +27,7 @@ Welcome to **Quiz Master**, a fun and engaging quiz app designed to test users' 
    
 ## 🖼️ Screenshots:
 
+![Simulator Screenshot 1](Simulator%20Screenshot%20-%200.png)
 ![Simulator Screenshot 1](Simulator%20Screenshot%20-%201.png)
 ![Simulator Screenshot 2](Simulator%20Screenshot%20-%202.png)
 ![Simulator Screenshot 3](Simulator%20Screenshot%20-%203.png)
