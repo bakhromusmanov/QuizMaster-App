@@ -2,7 +2,6 @@
 **Created by Bakhrom Usmanov** using SwiftUI
 
 Welcome to **Quiz Master**, a fun and engaging quiz app designed to test users' knowledge through multiple-choice questions. The game consists of three main screens: Welcome, Question, and Final Score.
-
 ![Simulator Screenshot 1](Simulator%20Screenshot%20-%200.png)
 
 ## 📱 What the App Can Do:
